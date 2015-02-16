@@ -4,4 +4,4 @@ Commit 2 Cambio de archivo
 
 Commit 3 en Rama David
 
-Commit 4 funsion de Rama david con rama master
+Commit 4 fusion de Rama david con rama master
